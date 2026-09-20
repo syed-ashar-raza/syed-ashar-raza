@@ -335,3 +335,19 @@ Evaluate
 Ship
 
 I continuously improve systems based on observed behavior and engineering requirements.
+
+📫 Connect
+GitHub
+
+github.com/syed-ashar-raza
+
+LinkedIn
+
+📫 Connect
+GitHub
+
+github.com/syed-ashar-raza
+
+LinkedIn
+
+www.linkedin.com/in/syed-ashar-raza-3b0883430
