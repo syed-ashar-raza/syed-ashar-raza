@@ -98,7 +98,7 @@ A modular command-line banking application demonstrating practical software engi
 
 # 🧠 AI Engineering
 
-### Generative AI
+## Generative AI
 
 - Large Language Model applications
 - Retrieval-Augmented Generation
@@ -109,7 +109,7 @@ A modular command-line banking application demonstrating practical software engi
 - Embeddings
 - Local LLM inference
 
-### AI Systems
+## AI Systems
 
 - RAG pipelines
 - AI agents
@@ -119,7 +119,7 @@ A modular command-line banking application demonstrating practical software engi
 - Knowledge retrieval
 - Evaluation workflows
 
-### Reliability
+## AI Reliability
 
 - Retrieval evaluation
 - Groundedness
@@ -133,11 +133,11 @@ A modular command-line banking application demonstrating practical software engi
 
 # ⚙️ Backend & Software Engineering
 
-### Backend
+## Backend
 
 `Python` `FastAPI` `REST APIs` `SQL` `SQLite` `SQLAlchemy`
 
-### Software Engineering
+## Software Engineering
 
 - Modular architecture
 - Object-oriented programming
@@ -150,7 +150,7 @@ A modular command-line banking application demonstrating practical software engi
 - Static analysis
 - Documentation
 
-### Engineering Quality
+## Engineering Quality
 
 `pytest` `Ruff` `Git` `GitHub`
 
@@ -160,7 +160,7 @@ A modular command-line banking application demonstrating practical software engi
 
 I design AI applications with production concerns in mind.
 
-### Security
+## Security
 
 - Secret management
 - Environment-based configuration
@@ -170,7 +170,7 @@ I design AI applications with production concerns in mind.
 - Safe tool execution
 - Data protection
 
-### Reliability
+## Reliability
 
 - Deterministic testing
 - Error handling
@@ -179,7 +179,7 @@ I design AI applications with production concerns in mind.
 - Regression testing
 - Observability
 
-### Delivery
+## Delivery
 
 - Git-based development
 - CI/CD principles
@@ -191,23 +191,23 @@ I design AI applications with production concerns in mind.
 
 # 🛠️ Technology Stack
 
-### Languages
+## Languages
 
 `Python` `SQL`
 
-### AI / ML
+## AI / ML
 
 `RAG` `LLMs` `Embeddings` `Sentence-Transformers` `Qwen` `Ollama`
 
-### Backend
+## Backend
 
 `FastAPI` `REST APIs` `SQLAlchemy` `SQLite`
 
-### Engineering
+## Engineering
 
 `Git` `GitHub` `pytest` `Ruff` `Docker`
 
-### Data / ML
+## Data / ML
 
 `NumPy` `Pandas` `Scikit-learn`
 
@@ -247,6 +247,7 @@ Maintained
 Extended
 Deployed
 Monitored
+
 📊 AI Evaluation Mindset
 
 For AI applications, functionality alone is not enough.
@@ -290,6 +291,7 @@ CI/CD
 Environment management
 Production-oriented configuration
 Monitoring
+
 📈 Engineering Principles
 
 I prioritize:
@@ -303,6 +305,7 @@ Security-conscious engineering
 Reproducibility
 Clear documentation
 Measurable improvement
+
 🎯 Professional Direction
 
 I am building toward professional opportunities in:
@@ -343,11 +346,19 @@ github.com/syed-ashar-raza
 
 LinkedIn
 
-📫 Connect
-GitHub
+linkedin.com/in/syed-ashar-raza-3b0883430
 
-github.com/syed-ashar-raza
+⚡ Building Practical AI Systems
 
-LinkedIn
+Design carefully. Build reliably. Test continuously. Ship useful AI.
 
-www.linkedin.com/in/syed-ashar-raza-3b0883430
+
+### Then
+
+1. Click **Preview**.
+2. Make sure the sections appear normally — especially **AI Evaluation Mindset**, **Current Engineering Focus**, **Connect**, etc.
+3. If Preview looks correct, click **Commit changes**.
+4. Commit message:
+
+```text
+docs: build professional AI developer profile
