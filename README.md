@@ -2,363 +2,238 @@
 
 ## Professional AI Developer
 
-I build practical AI systems with a focus on **AI engineering, Retrieval-Augmented Generation (RAG), LLM applications, Python backend development, and production-oriented software engineering**.
+I build practical, production-oriented AI systems with Python, LLMs, RAG, AI agents, backend engineering, and MLOps.
 
-My approach is engineering-first:
+My engineering approach is:
 
-**Architecture → Implementation → Testing → Evaluation → Deployment**
+**Architecture -> Implementation -> Testing -> Evaluation -> Deployment -> Monitoring**
 
----
-
-## About
-
-I focus on turning AI capabilities into reliable software products.
-
-My work covers:
-
-- AI application development
-- Retrieval-Augmented Generation (RAG)
-- LLM applications
-- Semantic search and embeddings
-- AI agents and automation
-- Python backend engineering
-- REST API development
-- Database-backed applications
-- Testing and evaluation
-- System reliability and observability
-- Security-conscious AI engineering
-- Deployment and maintainability
-
-I prioritize real functionality, measurable behavior, clean architecture, and maintainable code over superficial AI demos.
+I focus on building AI software that is reliable, measurable, maintainable, and useful beyond a simple demo.
 
 ---
 
-# 🚀 Featured Projects
+## Flagship Projects
 
-## RAGForge
+### RAGForge
 
-### Production-Oriented Local RAG System
+**Production-oriented local Retrieval-Augmented Generation system**
 
-RAGForge is an end-to-end Retrieval-Augmented Generation system combining document ingestion, semantic embeddings, retrieval, grounded LLM generation, evaluation, and a FastAPI interface.
+A complete RAG application covering document ingestion, semantic embeddings, retrieval, grounded LLM generation, evaluation, and FastAPI serving.
 
-**Technology**
-
-`Python` `FastAPI` `SQLite` `SQLAlchemy` `Sentence-Transformers` `Ollama` `Qwen3` `pytest` `Ruff` `Docker`
-
-### Engineering Capabilities
-
-- PDF and TXT document ingestion
-- Document parsing and text normalization
-- Configurable text chunking
-- Semantic embeddings
-- Vector retrieval
-- Cosine-similarity search
-- Grounded LLM generation
-- Source-aware responses
-- SHA-256 duplicate detection
-- Local Qwen3 inference
-- FastAPI REST API
-- Automated testing
-- Static analysis
-- Environment-based configuration
+**Core engineering:**
+- Document ingestion and parsing
+- Configurable chunking
+- Semantic embeddings and retrieval
+- Grounded generation with source-aware responses
+- Local LLM inference
+- Duplicate detection
 - Evaluation-oriented architecture
+- FastAPI API
+- Automated testing and static analysis
+- Docker-ready deployment
 
-**Repository:**  
-[RAGForge](https://github.com/syed-ashar-raza/RAGForge)
+**Stack:** Python | FastAPI | SQLite | SQLAlchemy | Sentence-Transformers | Ollama | Qwen | pytest | Ruff | Docker
 
 ---
 
-## Bukhari Bank Management System
+### AgentForge
 
-### Professional Python Banking Application
+**Production-oriented AI agent framework**
 
-A modular command-line banking application demonstrating practical software engineering principles, object-oriented design, data persistence, validation, exception handling, and automated testing.
+A modular agent system focused on LLM planning, tool execution, persistent memory, and backend API integration.
 
-**Technology**
+**Core engineering:**
+- LLM-based planning
+- Tool execution
+- Agent workflows
+- Persistent memory
+- Failure-aware execution
+- FastAPI backend
+- Automated testing
+- Local LLM integration
 
-`Python` `OOP` `JSON` `pytest` `Git`
+**Stack:** Python | FastAPI | SQLite | Ollama | LLMs | pytest
 
-### Engineering Capabilities
+---
 
+### ModelOpsForge
+
+**Production-oriented ML/MLOps lifecycle**
+
+An end-to-end machine-learning lifecycle implementing:
+
+**Train -> Evaluate -> Version -> Serve -> Monitor**
+
+**Core engineering:**
+- Deterministic data generation and validation
+- Model training and evaluation
+- Explicit model acceptance gates
+- MLflow experiment tracking
+- Model registry and versioning
+- Champion model aliasing
+- FastAPI inference
+- Prometheus-compatible monitoring
+- Health and readiness checks
+- Docker containerization
+- GitHub Actions CI
+- End-to-end Docker smoke testing
+
+**Stack:** Python | pandas | NumPy | scikit-learn | MLflow | FastAPI | Prometheus | pytest | Ruff | Docker | GitHub Actions
+
+---
+
+## Software Engineering Foundation
+
+### Bank Management System
+
+A modular Python banking application demonstrating practical software engineering fundamentals.
+
+**Engineering areas:**
 - Object-oriented architecture
-- Account management
-- Customer management
+- Account and customer management
 - Transaction processing
 - JSON persistence
-- Input validation
-- Custom exception handling
-- Modular source organization
+- Validation
+- Custom exceptions
 - Automated testing
-- Repository documentation
+- Modular project structure
 
-**Repository:**  
-[Bukhari Bank Management System](https://github.com/syed-ashar-raza/bank-management-system)
+**Stack:** Python | OOP | JSON | pytest | Git
 
 ---
 
-# 🧠 AI Engineering
+## Technical Focus
 
-## Generative AI
-
-- Large Language Model applications
+### AI Engineering
+- LLM applications
 - Retrieval-Augmented Generation
-- Grounded generation
-- Prompt engineering
-- Context construction
 - Semantic search
 - Embeddings
-- Local LLM inference
-
-## AI Systems
-
-- RAG pipelines
 - AI agents
 - Tool-based AI systems
-- AI automation
 - Document intelligence
-- Knowledge retrieval
-- Evaluation workflows
+- Local LLM inference
+- AI evaluation
 
-## AI Reliability
-
-- Retrieval evaluation
-- Groundedness
-- Regression testing
-- Error handling
-- Observability
-- Health checks
-- Performance considerations
-
----
-
-# ⚙️ Backend & Software Engineering
-
-## Backend
-
-`Python` `FastAPI` `REST APIs` `SQL` `SQLite` `SQLAlchemy`
-
-## Software Engineering
-
-- Modular architecture
-- Object-oriented programming
-- Data structures and algorithms
-- API design
+### Backend Engineering
+- Python
+- FastAPI
+- REST APIs
+- SQL
+- SQLite
+- SQLAlchemy
+- API validation
 - Configuration management
-- Input validation
-- Exception handling
-- Testing
+
+### ML / MLOps
+- scikit-learn
+- Model evaluation
+- Experiment tracking
+- Model registries
+- Model serving
+- Monitoring
+- Reproducibility
+- ML lifecycle engineering
+
+### Production Engineering
+- Automated testing
 - Static analysis
-- Documentation
-
-## Engineering Quality
-
-`pytest` `Ruff` `Git` `GitHub`
-
----
-
-# 🔐 Production Engineering
-
-I design AI applications with production concerns in mind.
-
-## Security
-
-- Secret management
-- Environment-based configuration
-- Input validation
-- Access-control considerations
-- Prompt-injection awareness
-- Safe tool execution
-- Data protection
-
-## Reliability
-
-- Deterministic testing
-- Error handling
-- Health checks
-- Failure-aware design
-- Regression testing
+- Docker
+- GitHub Actions
+- CI/CD
 - Observability
-
-## Delivery
-
-- Git-based development
-- CI/CD principles
-- Containerization
-- Environment configuration
-- Deployment-oriented architecture
+- Health checks
+- Error handling
+- Security-conscious design
+- Environment-based configuration
 
 ---
 
-# 🛠️ Technology Stack
+## Engineering Mindset
 
-## Languages
-
-`Python` `SQL`
-
-## AI / ML
-
-`RAG` `LLMs` `Embeddings` `Sentence-Transformers` `Qwen` `Ollama`
-
-## Backend
-
-`FastAPI` `REST APIs` `SQLAlchemy` `SQLite`
-
-## Engineering
-
-`Git` `GitHub` `pytest` `Ruff` `Docker`
-
-## Data / ML
-
-`NumPy` `Pandas` `Scikit-learn`
-
----
-
-# 🏗️ Engineering Workflow
-
-I approach AI software as an engineering system rather than a one-off experiment.
-
-```text
-Problem
-   ↓
-Requirements
-   ↓
-Architecture
-   ↓
-Implementation
-   ↓
-Testing
-   ↓
-Evaluation
-   ↓
-Optimization
-   ↓
-Documentation
-   ↓
-Deployment
-   ↓
-Monitoring
-
-The objective is to build systems that can be:
-
-Tested
-Evaluated
-Debugged
-Maintained
-Extended
-Deployed
-Monitored
-
-📊 AI Evaluation Mindset
-
-For AI applications, functionality alone is not enough.
-
-I focus on evaluating:
-
-Retrieval quality
-Context relevance
-Groundedness
-Answer correctness
-Failure cases
-Regression behavior
-Latency
-Reliability
-
-The goal is to understand how an AI system behaves, not simply whether it produces an answer.
-
-🔬 Current Engineering Focus
-
-My current focus is on building stronger professional AI engineering capabilities across:
-
-AI Applications
-RAG systems
-LLM applications
-AI agents
-AI automation
-Document intelligence
-Semantic search
-Engineering
-Backend architecture
-API design
-Database integration
-Testing
-Evaluation
-Reliability
-Observability
-Security
-Deployment
-Docker
-CI/CD
-Environment management
-Production-oriented configuration
-Monitoring
-
-📈 Engineering Principles
+I treat AI applications as software systems rather than isolated experiments.
 
 I prioritize:
 
-Real functionality over superficial demos
-Testing over assumptions
-Evaluation over hype
-Simple architecture before unnecessary complexity
-Maintainability over shortcuts
-Security-conscious engineering
-Reproducibility
-Clear documentation
-Measurable improvement
+- Real functionality over superficial demos
+- Testing over assumptions
+- Evaluation over hype
+- Simple architecture before unnecessary complexity
+- Maintainability over shortcuts
+- Reproducibility
+- Observability
+- Security-conscious engineering
+- Measurable behavior
+- Clear documentation
 
-🎯 Professional Direction
+For AI systems, I care about more than whether a model produces an answer.
 
-I am building toward professional opportunities in:
+I evaluate:
 
-AI Development
-AI Engineering
-LLM Application Development
-RAG Engineering
-Python AI Development
-Applied AI Engineering
+**Retrieval quality | Groundedness | Correctness | Failure behavior | Regression behavior | Latency | Reliability**
 
-My focus is building and shipping reliable AI-powered software.
+---
 
-🔄 Build → Measure → Improve
+## Technology Stack
 
-My development cycle is:
+**Languages**
 
-Build
-  ↓
-Test
-  ↓
-Measure
-  ↓
-Identify Weaknesses
-  ↓
-Improve
-  ↓
-Evaluate
-  ↓
-Ship
+Python | SQL
 
-I continuously improve systems based on observed behavior and engineering requirements.
+**AI / ML**
 
-📫 Connect
-GitHub
+RAG | LLMs | Embeddings | Sentence-Transformers | Qwen | Ollama | scikit-learn
 
-github.com/syed-ashar-raza
+**Backend**
 
-LinkedIn
+FastAPI | REST APIs | SQLAlchemy | SQLite
 
-linkedin.com/in/syed-ashar-raza-3b0883430
+**Engineering**
 
-⚡ Building Practical AI Systems
+Git | GitHub | pytest | Ruff | Docker | GitHub Actions
 
-Design carefully. Build reliably. Test continuously. Ship useful AI.
+**Data**
 
+NumPy | pandas
 
-### Then
+---
 
-1. Click **Preview**.
-2. Make sure the sections appear normally — especially **AI Evaluation Mindset**, **Current Engineering Focus**, **Connect**, etc.
-3. If Preview looks correct, click **Commit changes**.
-4. Commit message:
+## Professional Direction
 
-```text
-docs: build professional AI developer profile
+I am focused on professional opportunities in:
+
+- AI Development
+- AI Engineering
+- LLM Application Development
+- RAG Engineering
+- Applied AI Engineering
+- Python Backend Development
+- MLOps / ML Engineering
+
+My goal is to build and ship reliable AI-powered software that solves real problems.
+
+---
+
+## Portfolio
+
+**RAGForge** - RAG and grounded LLM applications
+
+**AgentForge** - AI agents and tool-based automation
+
+**ModelOpsForge** - ML lifecycle and MLOps engineering
+
+**Bank Management System** - Python software engineering foundation
+
+---
+
+## Connect
+
+LinkedIn: [Syed Ashar Raza](https://www.linkedin.com/in/syed-ashar-raza-3b0883430/)
+
+GitHub: [syed-ashar-raza](https://github.com/syed-ashar-raza)
+
+---
+
+### Build -> Test -> Evaluate -> Improve -> Ship
+
+I build practical AI systems with an engineering-first mindset.
